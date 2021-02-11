@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mymusic</string>
+    <string name="title_activity_cadastra_usuario">CadastraUsuario</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="data_de_nascimento">Data de nascimento:</string>
+    <string name="senha">Senha:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastrar_usu_rio">Cadastrar usuário</string>
+    <string name="cadastrar_usuario">cadastrar_usuario</string>
+</resources>
